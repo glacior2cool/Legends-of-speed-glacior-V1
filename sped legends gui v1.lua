@@ -1,4 +1,4 @@
-eeeeeeeeeeeeeeeeeeeee
+local ehhh = connect.plr
 getgenv().autoFarmSteps = false
 getgenv().autoFarmGems = false
 local remotePath = game:GetService("ReplicatedStorage")
